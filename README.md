@@ -10,7 +10,7 @@ Kullanılan Malzemeler;
 
 ![Devre Şeması](devre-semasi.jpg)
 
-'''cpp
+```cpp
 
 #include <LiquidCrystal.h>
 
@@ -53,4 +53,4 @@ void loop() {
 
 }
 
-'''
+```

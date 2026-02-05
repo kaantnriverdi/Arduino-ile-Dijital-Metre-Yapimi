@@ -11,6 +11,7 @@ Kullanılan Malzemeler;
 ![Devre Şeması](devre-semasi.jpg)
 
 '''cpp
+
 #include <LiquidCrystal.h>
 
 int trigPin = 7;
@@ -51,4 +52,5 @@ void loop() {
 
 
 }
+
 '''

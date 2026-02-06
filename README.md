@@ -10,7 +10,7 @@ Bu proje, Arduino Uno kullanarak bir dijital metre yapımını amaçlar. HC-SR04
 
 ![Devre Şeması](devre-semasi.jpg)
 
-[![video](thumbnail.jpg)](video.mp4)
+[![video](thumbnail.jpeg)](video.mp4)
 
 ### Ölçüm Doğruluğu Testi
 
